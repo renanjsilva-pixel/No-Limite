@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="./capa.jpg" width="100%" alt="NO LIMITE - Capa oficial">
@@ -7,7 +6,7 @@
 
 ### Sinta a velocidade. Domine as pistas. Vença a corrida!
 
-[![BAIXAR JOGO](https://img.shields.io/badge/⬇️_BAIXAR_JOGO-238636?style=for-the-badge)]([https://github.com/renanjsilva-pixel/No-Limite/releases/download/v1.o/No_Limite_NFS_Undercover_v23_Dificuldade_Diamantes_Pausa.zip](https://github.com/renanjsilva-pixel/No-Limite/releases/download/v1.o/No_Limite_V25_Correcao_Asfalto_Cinza.zip))
+[![BAIXAR JOGO](https://img.shields.io/badge/⬇️_BAIXAR_JOGO-238636?style=for-the-badge)](https://github.com/renanjsilva-pixel/No-Limite/releases/download/v1.o/No_Limite_V25_Correcao_Asfalto_Cinza.zip)
 
 [![GitHub](https://img.shields.io/badge/GITHUB-REPOSITÓRIO-181717?style=for-the-badge&logo=github)](https://github.com/renanjsilva-pixel/No-Limite)
 
@@ -123,7 +122,7 @@ Cada carro possui características próprias:
 
 ### 🏎️ Entre no NO LIMITE!
 
-<a href="[https://github.com/renanjsilva-pixel/No-Limite/releases/download/v1.o/No_Limite_NFS_Undercover_v23_Dificuldade_Diamantes_Pausa.zip](https://github.com/renanjsilva-pixel/No-Limite/releases/download/v1.o/No_Limite_V25_Correcao_Asfalto_Cinza.zip)">
+<a href="https://github.com/renanjsilva-pixel/No-Limite/releases/download/v1.o/No_Limite_V25_Correcao_Asfalto_Cinza.zip">
 <img src="https://img.shields.io/badge/⬇️_BAIXAR_NO_LIMITE-238636?style=for-the-badge&logo=github&logoColor=white" alt="Baixar NO LIMITE">
 </a>
 
